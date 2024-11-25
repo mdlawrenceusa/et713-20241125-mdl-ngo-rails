@@ -1,0 +1,1 @@
+# et713-20241125-mdl-ngo-rails
